@@ -1,3 +1,4 @@
+#include "locdef.h"    // Localization Strings for simple translation support
 #include "raylib.h"
 
 
